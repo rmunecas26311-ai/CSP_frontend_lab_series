@@ -2,7 +2,8 @@
  Lab 004 – Conditionals and Loops
 */
 
-// TODO 1: if..else with age discounts
+// TODO 1: if..else with age discounts.
+
 
 // TODO 2: Nested if with two numbers
 

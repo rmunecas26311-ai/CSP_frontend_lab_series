@@ -5,8 +5,8 @@
 
 // TODO 1: Declare one variable for each primitive type discussed in the PDF.
 // string, number, boolean, null, undefined
-let s; // = ?
-let n; // = ?
+let movie = "Bronx Tale"
+let rating = 6.8;
 let b; // = ?
 let z; // = null
 let u; // (leave undefined)
